@@ -1,7 +1,7 @@
 integrantes = [
-    {"nombre": "Leonardo", "apellido": "Torres"},
-    {"nombre": "Brian", "apellido": "Escarate"},
-    {"nombre": "Boris", "apellido": "Montero"},
+    {"nombre": "Nicolas", "apellido": "Soto"},
+    {"nombre": "Kevin", "apellido": "Morales"},
+    {"nombre": "Sebastian", "apellido": "Gonzalez"},
 ]
 
 for persona in integrantes:
